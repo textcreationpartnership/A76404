@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to an honourable member of Parliament, shewing the abuses committed by attornies, sollicitors, &amp;c. Containing reasons for passing a bill for the regulation and retrenchment of that profession.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76404</idno>
+            <idno type="STC">Wing B18A</idno>
+            <idno type="STC">ESTC R172626</idno>
+            <idno type="EEBO-CITATION">45097505</idno>
+            <idno type="OCLC">ocm 45097505</idno>
+            <idno type="VID">171125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to an honourable member of Parliament, shewing the abuses committed by attornies, sollicitors, &amp;c. Containing reasons for passing a bill for the regulation and retrenchment of that profession.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for, and sold by J. Nutt, near Stationers-Hall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: A.B.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawyers --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:171125:1" rendition="simple:additions"/>
+            <head>A LETTER TO AN Honourable Member OF PARLIAMENT, Shewing The <hi>Abuſes</hi> committed by <hi>Attornies, Sollicitors,</hi> &amp;c. Containing REASONS for paſſing a Bill for the Regu<g ref="char:EOLhyphen"/>lation and Retrenchment of that Profeſſion.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AFTER ſuch ſignal Inſtances of the good effects the Councils of your Honourable Houſe have produced, there is no hearty Lover of his Country but muſt believe, that God deſigns great Bleſſings for this Nation, and ſeems to make you his Mini<g ref="char:EOLhyphen"/>ſters for the execution of his Purpoſes: And I ſhould be wanting in my Duty, did I not honour you in particular, for the active Zeal you have conſtantly ſhewn for the Good and Welfare of your Native Country, which ſhould illuſtrate it ſelf in a more publick manner, did not your Modeſty force the contrary.</p>
+            <p>The laſt time I had the Honour of your Converſation, you was pleaſed to complain to me of the ſtrange and unaccountable Cheats and Knaveries practiſed by the Attornies, Sollicitors, <hi>&amp;c.</hi> of your Neighbourhood in the Country, of their exceſſive Numbers and daily Increaſe. You ſeemed to have made a Reſolution to endeavour the redreſſing the Grievances the poor People lie under upon their account; and likewiſe to retrench their Numbers, and lay ſuch a Foundation, that for the future, that Profeſſion may not be a grievance, but of uſe to this Nation.</p>
+            <p>It would ſeem preſumptuous, Sir, in me to moote your Purpoſes, and to give but a faint Applauſe of what your judgment has Stampt for good, would injure my parcel of Reaſons, and therefore, ſince I cannot ſufficiently commend this your charitable Reſolution, I will for<g ref="char:EOLhyphen"/>bear to ſay any thing farther in Commendation of it.</p>
+            <p>And, Sir, If I have met with any thing that may be thought worthy of your Conſidera<g ref="char:EOLhyphen"/>tion, I ſhould eſteem my ſelf wanting in that Duty which I owe, if I ſhould not lay it before you. And if there be (as ſome tell us) certain Lineaments in the Face of Truth, with which one cannot be deceived, becauſe they are not to be counterfeited. I hope the
+<pb n="2" facs="tcp:171125:2" rendition="simple:additions"/>Conſiderations which I herein preſume to offer to you, may ſo far reſemble it as to meet with your Approbation. And I do not doubt but in a few Months, this Office, by your Councils, will be brought back to its pureſt and moſt refined State, be purged from its groſs Abuſes, its Defects ſupply'd, and ſuperfluous Branches lopt off; That the worthy Members of it as well as the generality of the Kingdom, may have Reaſon to thank the Honourable Houſe for ſo great a Good.</p>
+            <p>A Man, Sir, of a very ſmall Intelligence can give you large Accounts of their Kna<g ref="char:EOLhyphen"/>veries and Cheats, (which are in every bodies Mouth) but eſpecially if he has had the ill Luck to fall into ſome of their Clutches, for they are ſo tenacious of a good Prize, that they ſeldom leave him till his Pockets are empty, and then the Cauſe comes to an end: The two Makebates bring their Clients to a view, and ſoon make up the matter: But this is after no more can be gotten out of them, when the Life of the Cauſe is gone, and when more Money is ſpent in Law than the value of the thing quarrelled for: But in <hi>promptu Cauſa eſt,</hi> the Reaſon is very obvious, and a Man with half an Eye may ſee the occaſion of this Abuſe, <hi>viz.</hi> the Number of the preſent Attornies, for the <hi>Clerk</hi> of the <hi>Warrants</hi> of the Court of <hi>Common Pleas</hi> informs me, that there is above 1400 belonging to that Court; and I believe there is few leſs of the <hi>King's-bench,</hi> and then, Sir, to conſider ſo many Men ſtriving to get their Livings, ſetting honeſt People together by the Ears, that ſo they may pick their Poc<g ref="char:EOLhyphen"/>kets, and practiſing other Villanies to inrich themſelves, will make the Words of a Reverend Judge of the Court of <hi>Common Pleas,</hi> (viz. <hi>That a Country Attorney is worſe than a wild Beast</hi>) almoſt Morally demonſtrable; and if they were as bad in the time of <hi>Ed.</hi> 4. as they are now <hi>Septies viginti</hi> were too many, and half the number would have been more than enough: Nay, 6 Attornies in former Days, were thought ſufficient for a whole County. And if 6 good ones were enough for a County formerly, ſurely 60 are too many now. Our Anceſtors were care<g ref="char:EOLhyphen"/>ful how they harboured theſe ſort of Creatures amongſt them, as being ſenſible what bad Neighbours they were.</p>
+            <p>But, Sir, they are not all Attornies who go under that Denomination, but a Pack of Raſ<g ref="char:EOLhyphen"/>cals, who are the Authors of more villanous Practices; a parcel of poor pittiful knaviſh <hi>Sollicitors, Petty-foggers,</hi> and <hi>Makebates,</hi> whoſe Profeſſion it is to promote differences, to pick flaws in Titles, and to advance the <hi>Chicanerie</hi> or wrangling part of the Law; and it would amaze a Man of Integrity and Honeſty, to hear them in their Clubs make their brags, and value themſelves upon their knaviſh Performances. Sir, The Number of this Rank is very great, I do not pretend to make an exact Computation, but I may reaſonably affirm, that it exceeds that of the <hi>Attorneys</hi> of both the other Courts joyned together above five times. This, Sir, (give me leave to mention it to you) is inſufferable, foraſmuch as their Practice is an incroachment upon both <hi>King</hi> and <hi>People;</hi> and I dare affirm (and you have often concurred with me in my Opinion) that were all thoſe that practice in this ſort forced to become Attornies, 'twould raiſe the King a very conſiderable Sum of Money. But this, Sir, with humble ſubmiſſion, will be no way to promote the Cauſe in hand, and it would be a great hardſhip upon the honeſt Attornies, for theſe Men who never ſerved as Clerks, according to the Rules of the Courts, to be thus advanced into the ſame Rank with thoſe who have: And I think a broken Tradeſman, a blockheadly Scrivener, or a poor Vagabond, ought not to intermeddle in ſo Honourable a Profeſſion; for with your leave, Sir, I give it that Character, it having been ſo accounted in former Days, and no doubt would be ſo again, could it once receive the Honour of coming under the care of your Honourable Houſe, altho' perhaps theſe may think their Caſe a little hard to be debarred from getting ſome Money by that Profeſſion now, by which they have loſt ſo much formerly, but, Sir, <hi>fiat Ju<g ref="char:EOLhyphen"/>ſtitia ſi ruat Caelum,</hi> and they themſelves cannot but chuſe but confeſs, (did not Intereſt rule) but that their Practice is a great hardſhip upon the others who have paid for, and laboured to obtain what theſe uſurp. I could, Sir, ſay much more upon this Point; but that I fear I ſhall be too prolix and troubleſome, for I have a great deal yet behind to trouble you with.</p>
+            <p>Another great Abuſe committed by Attornies, is their taking ſuch a Multitude of Clerks, that I dare affirm, there is not two in ten of twenty Years practice, but what have had fifteen Clerks, this, Sir, give me leave to call a great Abuſe, ſince I believe not one Attorney in 40 has ſufficient Practice to employ 2 Clerks; but granting they had, the Abuſe would be the ſame, becauſe the evil is the increaſe, and over ſtocking the Profeſſion: Whereas, on the contrary, was every Attorney allowed but one Clerk, and he to ſerve him ſeven Years, the Number would not increaſe ſo prodigiouſly, and beſides, there would then be Work for a parcel of poor Men, who make it their Employment, and live by Copying and Engroſſing other Perſons overplus Buſineſs. But, Sir, I believe I ſhall not be miſtaken, if I tell you, that ſome Attornies live by it, and their Clerks keep them, and I think 150, and 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> a piece, (which moſt Attorneys take with their Clerks) is an intollerable Price, not, Sir, that all pay af<g ref="char:EOLhyphen"/>ter that rate, for then ſo many poor People could not afford to put their Children to this Practice; ſome are taken as <hi>Foot-boys,</hi> and from holding a <hi>Stirrup,</hi> advance by degrees to this pitch, and in<g ref="char:EOLhyphen"/>deed it will be found upon Examination, that too many of the Members of this Profeſſion are thoſe whom their Parents intend ſhall live upon their Wits, and generally ſet forward into the World
+<pb n="3" facs="tcp:171125:2"/>with but a ſmall beginning and portion of their Fathers Eſtates; But this, Sir, I account an abuſe, and it is only the Scandal it now lies under, that poſſeſſes People with ſuch mean thoughts of it, and I believe you will concur with me, if I ſay, that 'tis as neceſſary that one of this Profeſſion ſhould have as good a fortune to begin with, as is requiſite in moſt other Employments. And therefore, Sir, I humbly think that it would not be amiſs if none were allowed to put their Chil<g ref="char:EOLhyphen"/>dren to this practice but who were able, and likewiſe would give them enough to ſubſiſt without being Knaves, <hi>for nothing brings ſo much ſcandal upon a Profeſſion as the ſordidneſs and poverty of its Profeſſors.</hi>
+            </p>
+            <p>Beſides all this, Sir, the Attornies are ſo negligent in giving Inſtruction to the Clerks they take, that it muſt be one of ſome Ingenuity, who can profit by their Inſtructions, they think they perform their Duty, if they barely let them ſee their Buſineſs, but never take care to inform their Underſtandings, and ſhew them thoſe things which do not fall in the way of their Practice, how this ſtands with their Conſciences they know beſt, But, Sir, this is not only a private Damage, but a publick Evil; 'tis this makes ſo many Good Cauſes miſcarry, and the Law be accounted but as a Lottery, wherein the Knave may ſooner win then the honeſt Man, be the Cauſe good or bad.</p>
+            <p>I do not intend this, Sir, as an Argument againſt Young-men; no, on the Contrary they ought to be encouraged, and I have abundance more to ſay againſt the Old ones; thoſe who by their long and conſtant Practice have learnt more ways to Cheat than they will impart to their Clerks, and according to the Proverb, <hi>A Young Lawyer and an old Phyſician are always best,</hi> for he is not ſo uſed to Cheating, and therefore muſt ſtand upon his Guard, and is likelieſt too, to take the moſt care of a Cauſe, becauſe he is beginning to live and muſt ſtrive for a Reputation, but the old lazy Attor<g ref="char:EOLhyphen"/>nies, who have feathered their Neſts well, are loath to move and <hi>Cuckoe,</hi> like, leave their Eggs to be hatched by other Birds, commonly truſting their buſineſs with their Clerks while they drink at the Tavern, and take their Pleaſure in the Country.</p>
+            <p>By this means, Sir, we come to have ſuch an encreaſe of Attornies, and they by their Tricks and Knaveries ſuch a decreaſe of Buſineſs, that in truth half of them follow ſuch as does not be<g ref="char:EOLhyphen"/>long to their Profeſſion; and amongſt the reſt, one way by which ſome of the worſt ſort of them live, is by being <hi>Commiſſioners</hi> in Statutes of <hi>Bankrupt.</hi> You may eaſily ſuppoſe, Sir, That ma<g ref="char:EOLhyphen"/>king this their Profeſſion they ſtrive to get as much by it as they can, and by their means thoſe good Laws which our Parliaments have made for the Advantage of <hi>Creditors</hi> are ſo ordered, that they really turn more to the Advantage of the <hi>Commiſſioners</hi> than any elſe; whereby the Creditor loſes his Money, or at leaſt the greateſt part of it, and the poor Debtor (be he a Knave or an honeſt Man, 'tis all the ſame thing) is ruined, and all this by the Practice of the Commſſioners, who lull the Creditors on to a vigorous Proſecution of the Bankrupt, and under an Inſinuation that the Bankrupt is a Knave, blind the Creditors Eyes from perceiving that they themſelves are really the greateſt. Theſe Practiſes of theirs are as light as <hi>Day;</hi> and I profeſs I have often wondred that your Honours have not been often beſought for Relief in this Matter; but I believe Fear has been an active cauſe of the contrary, the poor Debtor almoſt lying at their Mercies and dare not adventure ſo far as to ſeek Redreſs from your Honourable Houſe. If all were ſenſible of this Abuſe, certainly Compaſſion would cauſe an effectual Proviſion to be made for it; for while ſuch mercenary Men have a hand in the Commiſſions, not only Juſtice will be bought and ſold, and he that bids moſt ſhall certainly have moſt, but the poor Debtor is in a fair way to be ruin'd, not by having his Eſtate divided amongſt his Creditors (for that would be no hard caſe) but eat up by the <hi>Kings Commiſſioners,</hi> and I believe there is no neceſſity for proving the badneſs of their Title to it.</p>
+            <p>I have one word concerning the <hi>Oath</hi> which the Attornies take when they are admitted: This, Sir, pardon me If I call <hi>uſeleſs:</hi> (as indeed are moſt of the preſent cuſtomary Oaths) For as it is now worded, there is not one Attorney in a hundred that keeps it. And therefore my humble Motion is, that a way may be found out, that ſince an Oath will not bind them ſome thing ſhould be provided that would; and I believe nothing would be ſo obligatory and difficultly broken, as if, beſides a new Oath, their Duty was inforced by a Bond to his <hi>Majeſty,</hi> and the new Oath to be ſo drawn as to be more expreſſive, ſuch a one as the Wiſdom of the Houſe of Commons ſhall pre<g ref="char:EOLhyphen"/>pare; this is ſometimes found to be more binding than that <hi>Ceremony</hi> called an Oath, (as ſome Gen<g ref="char:EOLhyphen"/>tlemen are pleaſed to term it) which they think is of ſo little uſe, that ten to one they forget it be<g ref="char:EOLhyphen"/>fore they go to Sleep.</p>
+            <p>Should I ſet about it, Sir, (not to mention their Practices upon Juries and Witneſſes) I could give you ſo large an Account of the Knaveries practiced by <hi>Country Attornies,</hi> that if you heard it all, it would be tireſome to you, and ſo out of good Manners I will forbear to recite ſuch mean and numerous Rogueries. But to give you a Specimen of them, I would not have you ſurprized if I affirm that they have their Men on purpoſe to create and promote Quarels and Contro<g ref="char:EOLhyphen"/>verſies in their Neighbourhoods, and then to employ them in patching them up again. Theſe are ſur<g ref="char:EOLhyphen"/>prizing Villanies, ſuch as are hardly credible but their Agents here in Town can give a ſtrange Ac<g ref="char:EOLhyphen"/>count of them, and the little pitiful Actions which they Commence and Proſecute; and how fre<g ref="char:EOLhyphen"/>quently they are employed to proſecute <hi>Aſſaults</hi> and <hi>Batteries,</hi> (which are generally brought about by their forementioned Officers, Nay, the very Officers of the <hi>Courts</hi> (which is ſtrange; becauſe they act herein againſt their own Intereſt) have often declared themſelves aſhamed to ſign their
+<pb n="4" facs="tcp:171125:3"/>Proceedings, the Cauſes of Action have been ſo very trivial. And the Ingenious Author of the ſecond Letter to a Member of Parliament, concerning the Growth of <hi>Popery,</hi> the laſt Seſſion, did not without reaſon complain of the Abuſes the <hi>Papiſts</hi> committed under the mask of this <hi>Office.</hi> And I believe, Sir, I could give you convincing Arguments (but I will not trouble you with an Argument upon a Matter of which you are already convinced) that if it was but barely for this Reaſon, a ſcrutiny ought to be made into the probity of the Members of this Profeſſion: And I dare ſay, Sir, that if a <hi>Committee</hi> were appointed to hear and take Depoſitions, You and the whole Houſe would be throughly ſatisfied of the great neceſſity there is of your care in this Mat<g ref="char:EOLhyphen"/>ter. 'Tis not, I'll aſſure You, Sir, a Melancholly <hi>
+                  <g ref="char:V">Ʋ</g>tinam</hi> of my own, but the Deſire of ſounder Judgments, that your Houſe would take ſome order about this Profeſſion. And if what I have before told you be true, and I do aſſure you, Sir, you may depend upon my Word that it is, then I hope I may call them Abuſes, and ſuch as come within the Care of your Houſe, for unleſs ſome Remedy be applied, I ſee no end of them. And this, Sir, ſeemed to be the ſence of the laſt Seſ<g ref="char:EOLhyphen"/>ſion, by twice reading a Bill for retrenching their Numbers; which you have informed me would have gone nigh to have paſſed into an Act, had not the more important buſineſs of the <hi>Iriſh Forfei<g ref="char:EOLhyphen"/>tures</hi> taken up ſo much of your time, and the Seſſion been ſo near a Concluſion.</p>
+            <p>I would not have you, Sir, to Imagine that what you find in this Paper is half of what might be alledged againſt them; No, this is but the ſubſtance of ſome of my own ſuperficial Obſerva<g ref="char:EOLhyphen"/>tions. 'Tis not for me, Sir, To offer a Model to the Houſe of Commons, <hi>The Fountain of Good Counſel and Wiſdom, Power and Redreſs,</hi> but humbly to hope they will take this important buſineſs into their Honourable Conſideration; and when they ſhall be pleaſed ſo to do, I cannot but ex<g ref="char:EOLhyphen"/>pect to ſee a good and ſolid Foundation laid, which can be diſpleaſing to none but thoſe who by their evil Practices have rendred themſelves obnoxious to, and deſerve the utmoſt Severity.</p>
+            <p>And Pardon me, Sir, If I make bold to requeſt you in particular to employ your Intereſt in this Affair; 'twill be a Work of Charity as well as Juſtice, to lend a helping hand to it. I am not In<g ref="char:EOLhyphen"/>ſenſible, Sir, how I interrupt You, and I ſhould ſtand in need of an <hi>Appology,</hi> was this not for the <hi>Common Good,</hi> which to you is a good Excuſe: I ſhall always importune Heaven to furniſh me with ſo happy a Power as may render me in ſome acceptable Service, Worthy Sir, not only Your faithful, but</p>
+            <closer>
+               <signed>Your Grateful Humble Servant, <hi>A. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, for, and ſold by <hi>J. Nutt,</hi> near <hi>Stationers-Hall.</hi> Price 2<abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
